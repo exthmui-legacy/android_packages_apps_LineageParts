@@ -210,7 +210,19 @@
                 android:resource="@string/summary_empty" />
         </activity-alias>
 
-        <!-- Contributors Cloud (MyDeviceInfo category) -->
+        <!-- Expanded Desktop settings (Display category) -->
+        <activity-alias
+            android:name=".applications.ExpandedDesktopSettings"
+            android:label="@string/expanded_desktop_settings_title"
+            android:targetActivity="PartsActivity">
+            <intent-filter>
+                <action android:name="com.android.settings.action.IA_SETTINGS" />
+                <action android:name="org.lineageos.lineageparts.EXPANDED_DESKTOP_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity-alias>
+
+        <!-- Contributors Cloud (MyDeviceInfo category)
         <activity-alias
             android:name=".contributors.ContributorsCloudFragment"
             android:label="@string/contributors_cloud_fragment_title"
