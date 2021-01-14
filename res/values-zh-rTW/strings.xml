@@ -179,6 +179,8 @@
     <string name="home_answer_call_summary">按主畫面鍵接聽來電</string>
     <string name="extras_title">附加功能</string>
     <string name="additional_buttons_title">附加按鍵</string>
+    <string name="click_partial_screenshot_title">截取屏幕部分截圖</string>
+    <string name="click_partial_screenshot_summary">短按"音量下"與"電源鍵"來截取部分屏幕截圖</string>
     <string name="button_backlight_title">背光</string>
     <string name="button_backlight_enabled">開啟按鍵背光</string>
     <string name="button_backlight_only_when_pressed_title">僅在按下按鈕才點亮指示燈</string>
