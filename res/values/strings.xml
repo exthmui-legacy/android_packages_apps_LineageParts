@@ -252,6 +252,19 @@
     <string name="navigation_bar_app_switch_long_press_title">Recents long press action</string>
     <string name="navigation_bar_edge_long_swipe_title">Edge long swipe action</string>
 
+    <!-- Power menu -->
+    <string name="power_menu_title">Power menu</string>
+    <string name="power_menu_screenshot_title">Screenshot</string>
+    <string name="power_menu_screenshot_summary">Long-press for partial screenshot</string>
+    <string name="power_menu_airplane_title">Airplane mode</string>
+    <string name="power_menu_users_title">User switcher</string>
+    <string name="power_menu_bug_report_title">Bug report</string>
+    <string name="power_menu_bug_report_devoptions_unavailable">Bug reporting is disabled as development settings aren\'t enabled</string>
+    <string name="power_menu_bug_report_unavailable_for_user">Bug reporting is disabled for non-primary users.</string>
+    <string name="power_menu_lockdown_title">Lockdown</string>
+    <string name="power_menu_lockdown_unavailable">Lockdown is disabled as keyguard isn\'t secure</string>
+    <string name="power_menu_emergency_title">Emergency</string>
+
     <string name="camera_double_tap_power_gesture_title">Press power button twice for camera</string>
 
     <!-- Description of setting that controls gesture to open camera by double tapping the power button [CHAR LIMIT=NONE] -->
@@ -656,11 +669,11 @@
     <string name="trust_feature_security_patches">Android security patches</string>
     <string name="trust_feature_security_patches_value_base">Platform: %1$s\nVendor: %2$s</string>
     <!-- Lowercase on purpose, appears in trust_feature_security_patches_value_base -->
-    <string name="trust_feature_security_patches_value_new">up to date</string>
+    <string name="trust_feature_security_patches_value_new">Up to date</string>
     <!-- Lowercase on purpose, appears in trust_feature_security_patches_value_base -->
-    <string name="trust_feature_security_patches_value_medium">a few months out of date</string>
+    <string name="trust_feature_security_patches_value_medium">A few months out of date</string>
     <!-- Lowercase on purpose, appears in trust_feature_security_patches_value_base -->
-    <string name="trust_feature_security_patches_value_old">out of date</string>
+    <string name="trust_feature_security_patches_value_old">Out of date</string>
     <string name="trust_feature_security_patches_explain">Security patches are released monthly by Google in cooperation with SoC vendors to address flaws which could be exploited by malicious apps to bypass security restrictions and cause permanent damage to your device. Patches made available by Google are applied every month on all supported devices, but patches to proprietary code can only be applied by your device\'s manufacturer. To keep your device safe make sure your LineageOS build is always up-to-date, and (if applicable) ensure your vendor image is updated to the latest one recommended by LineageOS.</string>
     <string name="trust_feature_encryption">Encryption</string>
     <string name="trust_feature_encryption_value_enabled">Enabled</string>
