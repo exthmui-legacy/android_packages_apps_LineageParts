@@ -215,15 +215,11 @@
     <string name="power_menu_airplane_title">Mode Avion</string>
     <string name="power_menu_users_title">Changer d\'utilisateur</string>
     <string name="power_menu_bug_report_title">Rapport de bug</string>
-<<<<<<< HEAD
-    <string name="power_menu_lockdown_title">Verrouillage</string>
-=======
     <string name="power_menu_bug_report_devoptions_unavailable">Le rapport de bugs est désactivé car les paramètres de développement ne sont pas activés</string>
     <string name="power_menu_bug_report_unavailable_for_user">Le rapport de bugs est réservé à l\'utilisateur principal</string>
     <string name="power_menu_lockdown_title">Verrouillage</string>
     <string name="power_menu_lockdown_unavailable">Le verrouillage est désactivé car le système de gestion des clés n\'est pas sécurisé</string>
     <string name="power_menu_emergency_title">Urgence</string>
->>>>>>> lineage/lineage-18.1
     <string name="camera_double_tap_power_gesture_title">Appuyer deux fois sur le bouton Marche/Arrêt pour lancer l\'appareil photo</string>
     <string name="camera_double_tap_power_gesture_desc">Ouvrir rapidement l\'appareil photo sans déverrouiller l\'écran</string>
     <string name="torch_long_press_power_gesture_title">Pression longue pour la lampe de poche</string>
@@ -525,12 +521,9 @@
     <string name="trust_feature_selinux_explain">SELinux permet de contrôler les processus autorisés à accéder aux fichiers/chemins sur votre appareil.\nCette fonctionnalité empêche ainsi des applications et services d\'accéder à des fichiers qu\'ils ne sont pas censés gérer. Étant donné que les éventuels processus malveillants ont un accès limité à vos données, votre appareil reste protégé.</string>
     <string name="trust_feature_security_patches">Correctifs de sécurité Android</string>
     <string name="trust_feature_security_patches_value_base">Plate-forme : %1$s\nFournisseur : %2$s</string>
-<<<<<<< HEAD
-=======
     <string name="trust_feature_security_patches_value_new">À jour</string>
     <string name="trust_feature_security_patches_value_medium">Obsolète de quelques mois</string>
     <string name="trust_feature_security_patches_value_old">Obsolète</string>
->>>>>>> lineage/lineage-18.1
     <string name="trust_feature_security_patches_explain">Les correctifs de sécurité sont publiés chaque mois par Google, en coopération avec les fournisseurs de SoC. Ils permettent de corriger des failles que des applications malveillantes sont susceptibles d\'exploiter pour contourner les restrictions de sécurité et endommager votre appareil de façon définitive. Les correctifs fournis par Google sont appliqués chaque mois à tous les appareils compatibles, mais ceux concernant le code propriétaire ne peuvent l\'être que par le fabricant de votre appareil. Pour garantir la sécurité de votre appareil, veillez à toujours utiliser la dernière version de LineageOS et, le cas échéant, mettez à jour votre fichier vendor.img afin qu\'il corresponde à la dernière version recommandée par LineageOS.</string>
     <string name="trust_feature_encryption">Chiffrement</string>
     <string name="trust_feature_encryption_value_enabled">Activé</string>
